@@ -20,6 +20,14 @@ I'm a full stack web developer with background in psychology :computer:
   <p align='center'>- Videogames 👾</p>
   <p align='center'>- Sci-fi 👽</p>
   <p align='center'>- Traveling 🛫</p>
+<br>
+<h2 align='center'>Where to find me?</h2>
+<br>
+<p align='center'>
+  <a href='https://www.linkedin.com/in/ariadna-d%C3%ADaz-baggerman/'>Linkedin</a> |
+  <a href='https://twitter.com/arimagic'>Twitter</a> |
+  <a href= 'https://gist.github.com/arimagic-8bit'>GitHub</a>
+</p>
  <p align='center'>
   <img width='290px' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif'>
  </p>
